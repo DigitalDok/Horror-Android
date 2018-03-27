@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0c72c992d280d8e4cb8567da5da61c57
+timeCreated: 1519743499
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RM Typerighter old
+  fontNames:
+  - RM Typerighter old
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
